@@ -22,5 +22,6 @@ The following **bonus** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
+GIF URL:https://imgur.com/Lo0Liws
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/Lo0Liws.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
