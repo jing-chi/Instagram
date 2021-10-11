@@ -24,4 +24,4 @@ The following **bonus** features are implemented:
 Here's a walkthrough of implemented user stories:
 GIF URL:https://imgur.com/ZaQngg5
 
-<img src='https://i.imgur.com/ZaQngg5.gif' />
+<img src='https://imgur.com/ZaQngg5.gif' />
