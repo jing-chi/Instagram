@@ -9,6 +9,7 @@ target 'Instagram' do
   # Pods for Instagram
   # This pulls in the latest version of Alamofire. IF you have an older version of Xcode, please use    version 4.0 or check their documentation!
   pod 'AlamofireImage'
+  pod "MessageInputBar"
 
   # Comment the next line if you're not using Swift and don't want to use dynamic frameworks
   use_frameworks!
