@@ -12,8 +12,8 @@ The following **required** functionality is completed:
 - [X] User can log out. (1pt)
 - [X] User can view comments on a post. (3pts)
 - [X] User can add a new comment. (5pts)
-
-
+https://imgur.com/1gq8PcA
+<img src=https://imgur.com/1gq8PcA.gif/>
 ## Video Walkthrough
 # Instagram - Part I
 
